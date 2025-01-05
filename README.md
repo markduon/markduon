@@ -1,4 +1,4 @@
-Hi 👋 My name is Mark Duong
+Hi! My name is Mark Duong
 ===========================
 
 AI Engineer | KaggleX Fellow | Master's Student @ UoW
